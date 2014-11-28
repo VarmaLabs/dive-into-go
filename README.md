@@ -1,4 +1,4 @@
 dive-into-go
 ============
 
-Dive into GoLang
+Dive into GoLang.
